@@ -2,11 +2,6 @@
 
 A simple web page with jumping letters animation.
 
-## Table of Contents
-- [Description](#description)
-- [Usage](#usage)
-- [Styles](#styles)
-- [Script](#script)
 
 ## Description
 
