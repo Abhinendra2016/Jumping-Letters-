@@ -11,6 +11,9 @@ This project is a web page that showcases jumping letters with a cursive font. E
 
 To run this project, simply open the `index.html` file in a web browser.
 
-```bash
+bash
 open index.html
 
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome!
